@@ -24,6 +24,9 @@ The user interface of the Radar Simulator is designed for simplicity and ease of
 
 ![User Interface](images/ss3.png)
 
+## Conclusion
+The Radar Simulator provides an effective platform for simulating radar performance and understanding the impact of various parameters on radar range. With its user-friendly interface, robust calculation capabilities, and graphical visualization, it serves as a valuable tool for both learning and practical applications in radar technology. Future enhancements could include more advanced simulations, additional radar parameters, and extended graphing capabilities.
+
 ## Getting Started
 To get started with the RADAR Simulator, follow these steps:
 1. Clone the repository to your local machine.
