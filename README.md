@@ -30,11 +30,11 @@ To get started with the RADAR Simulator, follow these steps:
    ```bash
    git clone https://github.com/TaruntheBee/radar-simulator.git
 ## Usage
--Input the required radar parameters in the provided fields.
--Select the parameter to calculate from the dropdown menu.
--Click the calculate button to view the results.
--Use the reset button to clear inputs and start a new simulation.
--Refer to the history for past inputs and results.
+- Input the required radar parameters in the provided fields.
+- Select the parameter to calculate from the dropdown menu.
+- Click the calculate button to view the results.
+- Use the reset button to clear inputs and start a new simulation.
+- Refer to the history for past inputs and results.
 
 ## Contributing
 
