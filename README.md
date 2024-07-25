@@ -1,4 +1,3 @@
-# RADAR_simulator
 # RADAR Simulator in MATLAB
 
 ## Objective
