@@ -2,7 +2,9 @@
 
 ## Objective
 To provide an interactive platform for simulating radar performance and enable users to calculate radar range based on input parameters. Users can also visualize the impact of different parameters on various radar parameters such as Target Range, Transmitted Power, Transmitter Gain, Receiver Gain, and Losses.
+
 ![Radar Simulator](images/ss1.png)
+
 ## Features
 The Radar Simulator includes the following features:
 1. **Parameter Input Fields**: Users can input various radar parameters such as Transmitted Power (Pt), Transmitted Gain (Gt), Receiver Gain (Gr), Wavelength (λ), Radar Cross Section (σ), and Minimum Detectable Power.
@@ -19,6 +21,7 @@ The user interface of the Radar Simulator is designed for simplicity and ease of
 - **Message Label**: Displays messages and results to the user.
 
 ![User Interface](images/ss2.png)
+
 ![User Interface](images/ss3.png)
 
 ## Getting Started
